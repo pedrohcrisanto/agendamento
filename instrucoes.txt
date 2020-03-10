@@ -1,0 +1,8 @@
+Para fazer o sistema funcionar, é necessário importar o arquivo 'DB.sql' no base de dados.
+
+Depois modifique os arquivos 'config.php' e 'painel_config.php' contidos na pasta 'config'.
+
+No DB ja está configurado um usuário:
+
+usuario -> admin
+senha -> admin
